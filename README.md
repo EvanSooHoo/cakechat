@@ -1,3 +1,11 @@
+## Evan's Additional Notes
+
+Test it with telegram. Use the command python3 tools/telegram.bot.py --token YOURTOKEN with the colon included. The token is stored in a private home file
+
+Added a dumb echo bot with some added command line arg.  Test the same way
+
+python3 tools/bot.py --token YOURTOKEN
+
 **Note on the top: the project is unmaintained.**
 
 Transformer-based dialog models work better and we recommend using them instead of RNN-based CakeChat. See, for example https://github.com/microsoft/DialoGPT
