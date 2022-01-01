@@ -97,6 +97,7 @@ class TelegramBot(WithLogger):
     """
 
     def __init__(self, token):
+
         """
 
         :param token: a bot authorization token, can be obtained from the @BotFather bot.
